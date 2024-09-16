@@ -1,0 +1,38 @@
+[
+  {
+    "Nombre": "Prueba1",
+    "RutaInicial": "Prueba1_1.txt",
+    "EnPapelera": false,
+    "Tamano": 4,
+    "FechaCreacion": "2024-09-16T00:38:33.2783738-06:00",
+    "FechaModificacion": "2024-09-16T00:38:33.2793784-06:00",
+    "FechaEliminacion": null
+  },
+  {
+    "Nombre": "Prueba1",
+    "RutaInicial": "Prueba1_1.txt",
+    "EnPapelera": false,
+    "Tamano": 4,
+    "FechaCreacion": "2024-09-16T00:44:54.5846111-06:00",
+    "FechaModificacion": "2024-09-16T00:44:54.585877-06:00",
+    "FechaEliminacion": null
+  },
+  {
+    "Nombre": "Prueba2",
+    "RutaInicial": "Prueba2_1.txt",
+    "EnPapelera": false,
+    "Tamano": 5,
+    "FechaCreacion": "2024-09-16T00:45:08.8148102-06:00",
+    "FechaModificacion": "2024-09-16T00:45:08.8148102-06:00",
+    "FechaEliminacion": null
+  },
+  {
+    "Nombre": "",
+    "RutaInicial": "_1.txt",
+    "EnPapelera": false,
+    "Tamano": 0,
+    "FechaCreacion": "2024-09-16T11:29:14.1075049-06:00",
+    "FechaModificacion": "2024-09-16T11:29:14.112243-06:00",
+    "FechaEliminacion": null
+  }
+]
