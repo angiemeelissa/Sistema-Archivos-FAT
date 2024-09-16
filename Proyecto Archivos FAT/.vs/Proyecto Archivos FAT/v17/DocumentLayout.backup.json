@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Archivos\\Proyecto Archivos FAT\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Repositorio Archivos\\Sistema-Archivos-FAT\\Proyecto Archivos FAT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2F5E9B2-FE7B-4F6C-85DF-070208B9804B}|Proyecto Archivos FAT.csproj|c:\\users\\hp\\desktop\\archivos\\proyecto archivos fat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E2F5E9B2-FE7B-4F6C-85DF-070208B9804B}|Proyecto Archivos FAT.csproj|C:\\Users\\HP\\Desktop\\Repositorio Archivos\\Sistema-Archivos-FAT\\Proyecto Archivos FAT\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E2F5E9B2-FE7B-4F6C-85DF-070208B9804B}|Proyecto Archivos FAT.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2F5E9B2-FE7B-4F6C-85DF-070208B9804B}|Proyecto Archivos FAT.csproj|C:\\Users\\HP\\Desktop\\Archivos\\Proyecto Archivos FAT\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2F5E9B2-FE7B-4F6C-85DF-070208B9804B}|Proyecto Archivos FAT.csproj|solutionrelative:Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2F5E9B2-FE7B-4F6C-85DF-070208B9804B}|Proyecto Archivos FAT.csproj|C:\\Users\\HP\\Desktop\\Archivos\\Proyecto Archivos FAT\\FileSystemFAT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2F5E9B2-FE7B-4F6C-85DF-070208B9804B}|Proyecto Archivos FAT.csproj|C:\\Users\\HP\\Desktop\\Repositorio Archivos\\Sistema-Archivos-FAT\\Proyecto Archivos FAT\\FileSystemFAT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2F5E9B2-FE7B-4F6C-85DF-070208B9804B}|Proyecto Archivos FAT.csproj|solutionrelative:FileSystemFAT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2F5E9B2-FE7B-4F6C-85DF-070208B9804B}|Proyecto Archivos FAT.csproj|C:\\Users\\HP\\Desktop\\Archivos\\Proyecto Archivos FAT\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2F5E9B2-FE7B-4F6C-85DF-070208B9804B}|Proyecto Archivos FAT.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2F5E9B2-FE7B-4F6C-85DF-070208B9804B}|Proyecto Archivos FAT.csproj|c:\\users\\hp\\desktop\\repositorio archivos\\sistema-archivos-fat\\proyecto archivos fat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F5E9B2-FE7B-4F6C-85DF-070208B9804B}|Proyecto Archivos FAT.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Archivos\\Proyecto Archivos FAT\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Repositorio Archivos\\Sistema-Archivos-FAT\\Proyecto Archivos FAT\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Archivos\\Proyecto Archivos FAT\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Repositorio Archivos\\Sistema-Archivos-FAT\\Proyecto Archivos FAT\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T05:45:29.455Z",
@@ -42,41 +38,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Archivos\\Proyecto Archivos FAT\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Repositorio Archivos\\Sistema-Archivos-FAT\\Proyecto Archivos FAT\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Archivos\\Proyecto Archivos FAT\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Repositorio Archivos\\Sistema-Archivos-FAT\\Proyecto Archivos FAT\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAawEMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAAAL4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T05:52:46.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "FileSystemFAT.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Archivos\\Proyecto Archivos FAT\\FileSystemFAT.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Repositorio Archivos\\Sistema-Archivos-FAT\\Proyecto Archivos FAT\\FileSystemFAT.cs",
               "RelativeDocumentMoniker": "FileSystemFAT.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Archivos\\Proyecto Archivos FAT\\FileSystemFAT.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Repositorio Archivos\\Sistema-Archivos-FAT\\Proyecto Archivos FAT\\FileSystemFAT.cs",
               "RelativeToolTip": "FileSystemFAT.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwHMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T06:16:11.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Archivos\\Proyecto Archivos FAT\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Archivos\\Proyecto Archivos FAT\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAJcAAAAAAAAAAAAowKMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T05:57:59.009Z",
               "EditorCaption": ""
             }
           ]
