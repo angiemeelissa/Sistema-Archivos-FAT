@@ -140,6 +140,7 @@
             this.Boton_Papelera.TabIndex = 8;
             this.Boton_Papelera.Text = "Papelera";
             this.Boton_Papelera.UseVisualStyleBackColor = false;
+            this.Boton_Papelera.Click += new System.EventHandler(this.Boton_Papelera_Click_1);
             // 
             // Form1
             // 

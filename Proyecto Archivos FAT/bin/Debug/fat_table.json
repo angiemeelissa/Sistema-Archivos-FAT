@@ -6,7 +6,7 @@
     "Tamano": 4,
     "FechaCreacion": "2024-09-16T00:38:33.2783738-06:00",
     "FechaModificacion": "2024-09-16T00:38:33.2793784-06:00",
-    "FechaEliminacion": "2024-09-16T17:00:44.715265-06:00"
+    "FechaEliminacion": "2024-09-17T08:15:56.5189416-06:00"
   },
   {
     "Nombre": "Prueba1",
@@ -33,7 +33,7 @@
     "Tamano": 0,
     "FechaCreacion": "2024-09-16T11:29:14.1075049-06:00",
     "FechaModificacion": "2024-09-16T11:29:14.112243-06:00",
-    "FechaEliminacion": "2024-09-16T16:59:43.1154616-06:00"
+    "FechaEliminacion": "2024-09-17T08:47:46.3268626-06:00"
   },
   {
     "Nombre": "Prueba1",
@@ -43,5 +43,68 @@
     "FechaCreacion": "2024-09-16T00:38:33.2783738-06:00",
     "FechaModificacion": "2024-09-16T17:00:28.549949-06:00",
     "FechaEliminacion": "2024-09-16T17:00:50.3796271-06:00"
+  },
+  {
+    "Nombre": "Prueba1",
+    "RutaInicial": "Prueba1_1.txt",
+    "EnPapelera": true,
+    "Tamano": 13,
+    "FechaCreacion": "2024-09-17T08:14:40.1579312-06:00",
+    "FechaModificacion": "2024-09-17T08:14:40.1579312-06:00",
+    "FechaEliminacion": "2024-09-17T08:15:26.9632178-06:00"
+  },
+  {
+    "Nombre": "Prueba1",
+    "RutaInicial": "Prueba1_1.txt",
+    "EnPapelera": true,
+    "Tamano": 16,
+    "FechaCreacion": "2024-09-17T08:14:40.1579312-06:00",
+    "FechaModificacion": "2024-09-17T08:15:10.7576592-06:00",
+    "FechaEliminacion": "2024-09-17T08:15:35.2592526-06:00"
+  },
+  {
+    "Nombre": "PRUEBA13",
+    "RutaInicial": "PRUEBA13_1.txt",
+    "EnPapelera": true,
+    "Tamano": 12,
+    "FechaCreacion": "2024-09-17T08:30:28.5051697-06:00",
+    "FechaModificacion": "2024-09-17T08:30:28.5051697-06:00",
+    "FechaEliminacion": "2024-09-17T08:47:18.3980539-06:00"
+  },
+  {
+    "Nombre": "Prueba No.1",
+    "RutaInicial": "Prueba No.1_1.txt",
+    "EnPapelera": true,
+    "Tamano": 13,
+    "FechaCreacion": "2024-09-17T08:45:13.5532442-06:00",
+    "FechaModificacion": "2024-09-17T08:45:13.5532442-06:00",
+    "FechaEliminacion": "2024-09-17T08:47:40.6770014-06:00"
+  },
+  {
+    "Nombre": "Prueba No.1",
+    "RutaInicial": "Prueba No.1_1.txt",
+    "EnPapelera": true,
+    "Tamano": 12,
+    "FechaCreacion": "2024-09-17T08:45:13.5532442-06:00",
+    "FechaModificacion": "2024-09-17T08:45:50.2991073-06:00",
+    "FechaEliminacion": "2024-09-17T08:47:44.7578383-06:00"
+  },
+  {
+    "Nombre": "PRUEBA13",
+    "RutaInicial": "PRUEBA13_1.txt",
+    "EnPapelera": true,
+    "Tamano": 12,
+    "FechaCreacion": "2024-09-17T08:30:28.5051697-06:00",
+    "FechaModificacion": "2024-09-17T08:46:09.0839369-06:00",
+    "FechaEliminacion": "2024-09-17T08:47:29.2019259-06:00"
+  },
+  {
+    "Nombre": "PRUEBA13",
+    "RutaInicial": "PRUEBA13_1.txt",
+    "EnPapelera": true,
+    "Tamano": 0,
+    "FechaCreacion": "2024-09-17T08:30:28.5051697-06:00",
+    "FechaModificacion": "2024-09-17T08:47:23.5124994-06:00",
+    "FechaEliminacion": "2024-09-17T08:47:32.3305599-06:00"
   }
 ]
