@@ -29,7 +29,7 @@ namespace Proyecto_Archivos_FAT
             {
                 //CREAR ARCHIVO
                 fileSystem.CrearArchivo(fileName, fileData);
-                MessageBox.Show("¡Archivo Creado con Exito","CREAR ARCHIVO");
+                MessageBox.Show("¡Archivo Creado con Exito!","CREAR ARCHIVO");
             }
             catch (Exception ex)
             {

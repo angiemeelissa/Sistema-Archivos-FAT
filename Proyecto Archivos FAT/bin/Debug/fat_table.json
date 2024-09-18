@@ -106,5 +106,59 @@
     "FechaCreacion": "2024-09-17T08:30:28.5051697-06:00",
     "FechaModificacion": "2024-09-17T08:47:23.5124994-06:00",
     "FechaEliminacion": "2024-09-17T08:47:32.3305599-06:00"
+  },
+  {
+    "Nombre": "Guapa",
+    "RutaInicial": "Guapa_1.txt",
+    "EnPapelera": false,
+    "Tamano": 10,
+    "FechaCreacion": "2024-09-17T10:39:00.7695586-06:00",
+    "FechaModificacion": "2024-09-17T10:39:00.7695586-06:00",
+    "FechaEliminacion": null
+  },
+  {
+    "Nombre": "Guapa",
+    "RutaInicial": "Guapa_1.txt",
+    "EnPapelera": true,
+    "Tamano": 9,
+    "FechaCreacion": "2024-09-17T10:39:00.7695586-06:00",
+    "FechaModificacion": "2024-09-17T10:40:51.0925504-06:00",
+    "FechaEliminacion": "2024-09-17T10:41:13.3834567-06:00"
+  },
+  {
+    "Nombre": "Oswaldo",
+    "RutaInicial": "Oswaldo_1.txt",
+    "EnPapelera": false,
+    "Tamano": 5,
+    "FechaCreacion": "2024-09-17T15:25:24.6203928-06:00",
+    "FechaModificacion": "2024-09-17T15:25:24.6203928-06:00",
+    "FechaEliminacion": null
+  },
+  {
+    "Nombre": "Oswaldo",
+    "RutaInicial": "Oswaldo_1.txt",
+    "EnPapelera": false,
+    "Tamano": 9,
+    "FechaCreacion": "2024-09-17T15:25:24.6203928-06:00",
+    "FechaModificacion": "2024-09-17T15:26:35.128006-06:00",
+    "FechaEliminacion": null
+  },
+  {
+    "Nombre": "Prueba Numero 1",
+    "RutaInicial": "Prueba Numero 1_1.txt",
+    "EnPapelera": false,
+    "Tamano": 4,
+    "FechaCreacion": "2024-09-17T22:03:35.7581583-06:00",
+    "FechaModificacion": "2024-09-17T22:03:35.7581583-06:00",
+    "FechaEliminacion": null
+  },
+  {
+    "Nombre": "Prueba Numero 1",
+    "RutaInicial": "Prueba Numero 1_1.txt",
+    "EnPapelera": false,
+    "Tamano": 13,
+    "FechaCreacion": "2024-09-17T22:03:35.7581583-06:00",
+    "FechaModificacion": "2024-09-17T22:06:58.2157471-06:00",
+    "FechaEliminacion": null
   }
 ]
