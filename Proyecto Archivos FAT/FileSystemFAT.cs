@@ -119,10 +119,9 @@ namespace Proyecto_Archivos_FAT
             return JsonConvert.DeserializeObject<List<ArchivoFAT>>(json);
         }
 
-        //MODIFICAR UN ARCHIVO EXISTENTE
+        // MODIFICAR UN ARCHIVO EXISTENTE
         public void ModificarArchivo(string nombre, string nuevosDatos)
         {
-            //OBTENER LA LISTA DE ARCHIVOS
             List<ArchivoFAT> archivosFAT = ObtenerTablaFAT();
             var archivo = archivosFAT.Find(a => a.Nombre == nombre && !a.EnPapelera);
 
@@ -130,18 +129,29 @@ namespace Proyecto_Archivos_FAT
             {
                 if (nuevosDatos.Length > 20)
                 {
-                    throw new InvalidOperationException("No se Pueden Ingresar mas de 20 Caracteres\nIntente de Nuevo");
+                    throw new InvalidOperationException("No se pueden ingresar más de 20 caracteres.");
                 }
 
-                //MODIFICAR LOS DATOS DEL ARCHIVO
+                int index = 1;
+                while (File.Exists($"{nombre}_{index}.txt"))
+                {
+                    File.Delete($"{nombre}_{index}.txt");
+                    index++;
+                }
+
+                GuardarDatosEnArchivos(nombre, nuevosDatos);
+
                 archivo.Tamano = nuevosDatos.Length;
                 archivo.FechaModificacion = DateTime.Now;
 
-                //GUARDAR LOS NUEVOS DATOS DEL ARCHIVO
-                GuardarDatosEnArchivos(nombre, nuevosDatos);
-                GuardarFAT(archivo);
+                File.WriteAllText(PathFAT, JsonConvert.SerializeObject(archivosFAT, Formatting.Indented));
+            }
+            else
+            {
+                throw new FileNotFoundException("Archivo no encontrado.");
             }
         }
+
 
         //ELIMINAR UN ARCHIVO *MOVER A LA PAPELERA*
         public void EliminarArchivo(string nombre)

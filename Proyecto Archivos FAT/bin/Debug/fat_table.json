@@ -6,7 +6,7 @@
     "Tamano": 4,
     "FechaCreacion": "2024-09-16T00:38:33.2783738-06:00",
     "FechaModificacion": "2024-09-16T00:38:33.2793784-06:00",
-    "FechaEliminacion": "2024-09-17T08:15:56.5189416-06:00"
+    "FechaEliminacion": "2024-09-18T08:48:28.6769111-06:00"
   },
   {
     "Nombre": "Prueba1",
@@ -15,7 +15,7 @@
     "Tamano": 4,
     "FechaCreacion": "2024-09-16T00:44:54.5846111-06:00",
     "FechaModificacion": "2024-09-16T00:44:54.585877-06:00",
-    "FechaEliminacion": "2024-09-16T16:59:35.5728756-06:00"
+    "FechaEliminacion": "2024-09-18T08:48:31.6239854-06:00"
   },
   {
     "Nombre": "Prueba2",
@@ -33,7 +33,7 @@
     "Tamano": 0,
     "FechaCreacion": "2024-09-16T11:29:14.1075049-06:00",
     "FechaModificacion": "2024-09-16T11:29:14.112243-06:00",
-    "FechaEliminacion": "2024-09-17T08:47:46.3268626-06:00"
+    "FechaEliminacion": "2024-09-18T08:48:47.806398-06:00"
   },
   {
     "Nombre": "Prueba1",
@@ -110,11 +110,11 @@
   {
     "Nombre": "Guapa",
     "RutaInicial": "Guapa_1.txt",
-    "EnPapelera": false,
+    "EnPapelera": true,
     "Tamano": 10,
     "FechaCreacion": "2024-09-17T10:39:00.7695586-06:00",
     "FechaModificacion": "2024-09-17T10:39:00.7695586-06:00",
-    "FechaEliminacion": null
+    "FechaEliminacion": "2024-09-18T08:48:51.6244016-06:00"
   },
   {
     "Nombre": "Guapa",
@@ -128,37 +128,82 @@
   {
     "Nombre": "Oswaldo",
     "RutaInicial": "Oswaldo_1.txt",
-    "EnPapelera": false,
+    "EnPapelera": true,
     "Tamano": 5,
     "FechaCreacion": "2024-09-17T15:25:24.6203928-06:00",
     "FechaModificacion": "2024-09-17T15:25:24.6203928-06:00",
-    "FechaEliminacion": null
+    "FechaEliminacion": "2024-09-18T08:48:35.9372933-06:00"
   },
   {
     "Nombre": "Oswaldo",
     "RutaInicial": "Oswaldo_1.txt",
-    "EnPapelera": false,
+    "EnPapelera": true,
     "Tamano": 9,
     "FechaCreacion": "2024-09-17T15:25:24.6203928-06:00",
     "FechaModificacion": "2024-09-17T15:26:35.128006-06:00",
-    "FechaEliminacion": null
+    "FechaEliminacion": "2024-09-18T08:48:59.2124207-06:00"
   },
   {
     "Nombre": "Prueba Numero 1",
     "RutaInicial": "Prueba Numero 1_1.txt",
-    "EnPapelera": false,
+    "EnPapelera": true,
     "Tamano": 4,
     "FechaCreacion": "2024-09-17T22:03:35.7581583-06:00",
     "FechaModificacion": "2024-09-17T22:03:35.7581583-06:00",
-    "FechaEliminacion": null
+    "FechaEliminacion": "2024-09-18T08:49:04.8624339-06:00"
   },
   {
     "Nombre": "Prueba Numero 1",
     "RutaInicial": "Prueba Numero 1_1.txt",
-    "EnPapelera": false,
+    "EnPapelera": true,
     "Tamano": 13,
     "FechaCreacion": "2024-09-17T22:03:35.7581583-06:00",
     "FechaModificacion": "2024-09-17T22:06:58.2157471-06:00",
-    "FechaEliminacion": null
+    "FechaEliminacion": "2024-09-18T08:49:13.1824908-06:00"
+  },
+  {
+    "Nombre": "chris",
+    "RutaInicial": "chris_1.txt",
+    "EnPapelera": true,
+    "Tamano": 9,
+    "FechaCreacion": "2024-09-18T08:33:55.2075605-06:00",
+    "FechaModificacion": "2024-09-18T08:33:55.2075605-06:00",
+    "FechaEliminacion": "2024-09-18T08:49:16.2895006-06:00"
+  },
+  {
+    "Nombre": "chris",
+    "RutaInicial": "chris_1.txt",
+    "EnPapelera": true,
+    "Tamano": 7,
+    "FechaCreacion": "2024-09-18T08:33:55.2075605-06:00",
+    "FechaModificacion": "2024-09-18T08:34:31.8423236-06:00",
+    "FechaEliminacion": "2024-09-18T08:49:22.4915494-06:00"
+  },
+  {
+    "Nombre": "hola",
+    "RutaInicial": "hola_1.txt",
+    "EnPapelera": true,
+    "Tamano": 16,
+    "FechaCreacion": "2024-09-18T08:36:22.7718705-06:00",
+    "FechaModificacion": "2024-09-18T08:36:22.7718705-06:00",
+    "FechaEliminacion": "2024-09-18T08:49:25.0187074-06:00"
+  },
+  {
+    "Nombre": "hola",
+    "RutaInicial": "hola_1.txt",
+    "EnPapelera": true,
+    "Tamano": 20,
+    "FechaCreacion": "2024-09-18T08:36:22.7718705-06:00",
+    "FechaModificacion": "2024-09-18T08:37:30.0333514-06:00",
+    "FechaEliminacion": "2024-09-18T08:37:50.3373534-06:00"
+  },
+  {
+    "Nombre": "Roger",
+    "RutaInicial": "Roger_1.txt",
+    "EnPapelera": true,
+    "Tamano": 5,
+    "FechaCreacion": "2024-09-18T08:47:28.3745183-06:00",
+    "FechaModificacion": "2024-09-18T08:47:42.5709072-06:00",
+    "FechaEliminacion": "2024-09-18T08:48:39.1138267-06:00"
   }
 ]
