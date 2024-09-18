@@ -1,0 +1,66 @@
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\obj\Debug\Proyecto Archivos FAT.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\obj\Debug\Proyecto_Archivos_FAT.Form1.resources
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\obj\Debug\Proyecto_Archivos_FAT.Properties.Resources.resources
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\obj\Debug\Proyecto Archivos FAT.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\obj\Debug\Proyecto Archivos FAT.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\Proyecto Archivos FAT.exe.config
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\Proyecto Archivos FAT.exe
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\Proyecto Archivos FAT.pdb
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\System.Net.Http.Json.dll
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\System.Text.Json.dll
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\System.Net.Http.Json.xml
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\System.Text.Json.xml
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\obj\Debug\Proyecto.E3635829.Up2Date
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\obj\Debug\Proyecto Archivos FAT.exe
+C:\Users\HP\Desktop\Archivos\Proyecto Archivos FAT\obj\Debug\Proyecto Archivos FAT.pdb
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\Proyecto Archivos FAT.exe.config
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\Proyecto Archivos FAT.exe
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\Proyecto Archivos FAT.pdb
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\System.Net.Http.Json.dll
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\System.Text.Json.dll
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\System.Net.Http.Json.xml
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\System.Text.Json.xml
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\obj\Debug\Proyecto Archivos FAT.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\obj\Debug\Proyecto_Archivos_FAT.Form1.resources
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\obj\Debug\Proyecto_Archivos_FAT.Properties.Resources.resources
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\obj\Debug\Proyecto Archivos FAT.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\obj\Debug\Proyecto Archivos FAT.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\obj\Debug\Proyecto.E3635829.Up2Date
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\obj\Debug\Proyecto Archivos FAT.exe
+C:\Users\HP\Desktop\Repositorio Archivos\Sistema-Archivos-FAT\Proyecto Archivos FAT\obj\Debug\Proyecto Archivos FAT.pdb
